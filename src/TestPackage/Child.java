@@ -12,5 +12,6 @@ public class Child extends Test {
 	public void testing()
 	{
 		System.out.println("Child");
+		System.out.println("Test comment from Project X");
 	}
 }
